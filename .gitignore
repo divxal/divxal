@@ -1,0 +1,7 @@
+# artefactos locales de construccion
+_build/
+__pycache__/
+*.pyc
+
+# fuentes de trabajo (OFL, no hace falta versionarlas)
+tools/fonts/
